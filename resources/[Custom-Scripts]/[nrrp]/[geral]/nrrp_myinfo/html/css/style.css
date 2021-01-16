@@ -1,0 +1,86 @@
+html { 
+	overflow-x: hidden !important; 
+	overflow-y: hidden !important; 
+	background-color: transparent !important;
+}
+
+body {
+	background-color: transparent !important; 
+	margin: 0; 
+	padding: 0; 
+}
+
+#text{
+    line-height: 30px;
+    float: left;
+}
+
+.container{
+	top:10%;
+	left:20%;
+	right:20%;
+	position: absolute;
+	width: auto;
+}
+
+.row {
+	margin: 0;
+	width:auto;
+	height:auto;
+	background: rgba(0,0,0,0.3);
+	border-radius: 5px;
+}
+
+.monetary-information {
+	padding-top: 120px;
+}
+
+.stats{
+	padding-top: 10px;
+}
+
+#name{
+	font-size: 20px;
+	color:#FFF;
+}
+
+#sex{
+	font-size: 20px;
+	color:#FFF;
+}
+
+#dateofbirth{
+	font-size: 20px;
+	color:#FFF;
+}
+
+#job{
+	font-size: 20px;
+	color:#FFF;
+}
+
+#phone_number{
+	font-size: 20px;
+	color:#FFF;
+}
+/*---------------------------------------------*/
+#money{
+	font-size: 20px;
+}
+
+#bank_money{
+	font-size: 20px;
+}
+
+#black_money{
+	font-size: 20px;
+}
+
+#playerid{
+	font-size: 20px;
+}
+
+span {
+    color: red;
+    font-size:20px;
+}

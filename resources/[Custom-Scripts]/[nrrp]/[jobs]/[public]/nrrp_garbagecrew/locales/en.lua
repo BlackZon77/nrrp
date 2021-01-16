@@ -1,0 +1,19 @@
+Locales['en'] = {
+  ['cloakroom']	= 'Vestiário',
+  ['job_wear'] = 'Entrar em serviço',
+  ['citizen_wear'] = 'Sair de serviço',
+  ['vehiclespawner'] = 'Seleciona o camião á tua escolha', 
+  ['already_have_truck'] = 'Já te demos um camião!', 
+  ['collection'] = '~INPUT_PICKUP~ para pegar.',
+  ['return_depot'] = 'return to the depot.',
+  ['blip_job'] = 'Logística biffa', --'Garbage company',
+  ['blip_delivery'] = 'Logística biffa : Ponto de levantamento', --'Garbage company : Delivery',
+  ['blip_goal'] = 'Logística biffa : Ponto de Retorno', --'Garbage company : Delivery point',
+  ['cancel_mission'] = '~INPUT_PICKUP~ para acabar/cancelar a missão',
+  ['collect_bags'] = '~INPUT_PICKUP~ para coletar o saco (%s restantes)',
+  ['not_near_truck'] = 'Nenhum caminhão por perto para depositar os sacos nele.',
+  ['need_work_truck'] = 'Tens de estar no caminhão da empresa para iniciar os levantamentos.',
+  ['toss_bag'] = '~INPUT_PICKUP~ para meter saco no camião.',
+  ['drive_to_collection'] = 'Dirige até ao local de levantamento.',
+  ['no_trash_aviable'] = 'Nenhuma lixeira disponível para ser retirada neste local.'
+}

@@ -1,0 +1,17 @@
+Locales ['en'] = {
+	['used_kit']					= 'usaste x1 Repairkit',
+	['must_be_outside']				= 'tens de estar fora do carro!',
+	['no_vehicle_nearby']			= 'não há nenhum veículo perto de ti',
+	['finished_repair']				= 'reparaste o veículo!',
+	['finished_tyre_repair']		= 'mudas o pneu do carro',
+	['abort_hint']					= 'pressiona ~INPUT_VEH_DUCK~ para cancelar',
+	['aborted_repair']				= 'abortaste a reparação',
+	['aborted_tyre_repair']			= 'abortaste a muda de pneu',
+	['car_exploding']				= 'o motor vai explodir ...',
+	['not_near_tyre']				= 'Precisas de estar perto de um pneu',
+	['not_near_engine']				= 'Precisas de estar perto do motor',
+	['MechIsOnline']				= 'Por favor chama um mecnaico.',
+	['ReparingEngine']				= 'A reparar motor...',
+	['ReparingTyre']				= 'A mudar pneu...',
+	['Cancelling']					= 'A cancelar ...',
+}
